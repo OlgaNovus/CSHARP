@@ -4,7 +4,6 @@ Console.WriteLine("Введите a");
 int a = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите b");
 int b = int.Parse(Console.ReadLine());
-int max;
 
 if (a < b)
 {
