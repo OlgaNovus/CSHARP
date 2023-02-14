@@ -1,0 +1,15 @@
+C:\GeekBrains\Examples\Example003\bin\Debug\net6.0\Example003.exe
+C:\GeekBrains\Examples\Example003\bin\Debug\net6.0\Example003.deps.json
+C:\GeekBrains\Examples\Example003\bin\Debug\net6.0\Example003.runtimeconfig.json
+C:\GeekBrains\Examples\Example003\bin\Debug\net6.0\Example003.dll
+C:\GeekBrains\Examples\Example003\bin\Debug\net6.0\Example003.pdb
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\Example003.csproj.AssemblyReference.cache
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\Example003.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\Example003.AssemblyInfoInputs.cache
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\Example003.AssemblyInfo.cs
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\Example003.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\Example003.dll
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\refint\Example003.dll
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\Example003.pdb
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\Example003.genruntimeconfig.cache
+C:\GeekBrains\Examples\Example003\obj\Debug\net6.0\ref\Example003.dll
