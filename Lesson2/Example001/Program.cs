@@ -2,17 +2,32 @@
 
 while (true)
 {
-    Console.WriteLine("Введи трёхзначное число");
+    string outStr;
+    bool chekResult = ReadAndCheck(out outStr);
 
-    String? readLine = Console.ReadLine();
-
-    if (int.TryParse(readLine, out _))
+    if (chekResult)
     {
-        Console.WriteLine("Вторая цифра этого числа " + readLine[1]);
-        return;
+        if (outStr.Length == 3)
+        {
+            Console.WriteLine(outStr[1]);
+            break;
+        }
+
+        Console.WriteLine("Введеное вами число не трехзначное. Повторите ввод.");
     }
     else
     {
-        Console.WriteLine("Буковки не число!");
+        Console.WriteLine("Введенное вами значение \"{0}\" не является числом. Повторите ввод.", outStr);
     }
+}
+
+static bool ReadAndCheck(out string str)
+{
+    Console.WriteLine("Введите трехзначное число.");  
+    
+    string readStr = Console.ReadLine();                    
+    str = readStr;                                          
+    
+    bool isDigit = int.TryParse(readStr, out _);            
+    return isDigit;                                         
 }
