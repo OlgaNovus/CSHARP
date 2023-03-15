@@ -18,13 +18,6 @@ static bool ChekNumber(int m, int n)
         Console.WriteLine("Введенное число не может быть меньше 1");
         return false;
     }
-
-    if (m < n)
-    {
-        Console.WriteLine("M не может быть меньше N");
-        return false;
-    }
-
     return true;
 }
 
@@ -33,6 +26,10 @@ static int SumNaturalNumbers(int m, int n, int numberIteration)
     if (m == n)
     {
         return n;
+    }
+    if (m > n)
+    {
+        return n + SumNaturalNumbers(n + 1, m, numberIteration + 1);
     }
     else
     {
