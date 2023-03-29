@@ -1,0 +1,15 @@
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\Task01.csproj.AssemblyReference.cache
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\Task01.AssemblyInfoInputs.cache
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\Task01.AssemblyInfo.cs
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\Task01.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Examples\VerificationWork\Task01\bin\Debug\net7.0\Task01.exe
+C:\GeekBrains\Examples\VerificationWork\Task01\bin\Debug\net7.0\Task01.deps.json
+C:\GeekBrains\Examples\VerificationWork\Task01\bin\Debug\net7.0\Task01.runtimeconfig.json
+C:\GeekBrains\Examples\VerificationWork\Task01\bin\Debug\net7.0\Task01.dll
+C:\GeekBrains\Examples\VerificationWork\Task01\bin\Debug\net7.0\Task01.pdb
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\Task01.dll
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\refint\Task01.dll
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\Task01.pdb
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\Task01.genruntimeconfig.cache
+C:\GeekBrains\Examples\VerificationWork\Task01\obj\Debug\net7.0\ref\Task01.dll
